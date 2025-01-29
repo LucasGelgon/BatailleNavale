@@ -1,0 +1,31 @@
+{
+    "files.associations": {
+        "iosfwd": "cpp",
+        "iostream": "cpp",
+        "ostream": "cpp",
+        "new": "cpp"
+    },
+    "makefile.makefilePath": "./ws/",
+    "makefile.launchConfigurations": [
+        {
+            "cwd": "/home/lgelgon/R605/VisualStudioCode/ProjetNavalBattle/bin",
+            "binaryPath": "/home/lgelgon/R605/VisualStudioCode/ProjetNavalBattle/bin/testCBateau.bin",
+            "binaryArgs": []
+        },
+        {
+            "cwd": "/home/lgelgon/R605/VisualStudioCode/ProjetNavalBattle/bin",
+            "binaryPath": "/home/lgelgon/R605/VisualStudioCode/ProjetNavalBattle/bin/testCArmada.bin",
+            "binaryArgs": []
+        },
+        {
+            "cwd": "/home/lgelgon/R605/VisualStudioCode/ProjetNavalBattle/bin",
+            "binaryPath": "/home/lgelgon/R605/VisualStudioCode/ProjetNavalBattle/bin/main.bin",
+            "binaryArgs": []
+        },
+        {
+            "cwd": "/home/lgelgon/R605/VisualStudioCode/ProjetNavalBattle/bin",
+            "binaryPath": "/home/lgelgon/R605/VisualStudioCode/ProjetNavalBattle/bin/testCGui.bin",
+            "binaryArgs": []
+        }
+    ]
+}
