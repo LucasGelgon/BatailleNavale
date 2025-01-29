@@ -4,8 +4,8 @@
 C++ 
 
 ## How it works ##
-You should play with two terminals, one for the client and the other one for the server.
-The servor starts the game.
+You should play with two terminals, one for the client and the other one for the server. <br>
+The servor starts the game. <br>
 You can play to the Naval Battle with your friend.
 
 ## Documentation ##
