@@ -3,6 +3,8 @@
 Jeu de bataille navale en réseau local, en **mode client-serveur**, codé en **C++**.  
 Chaque joueur utilise un terminal distinct : l'un en tant que **serveur**, l'autre en **client**.
 
+🖼️ Des **captures d’écran explicatives** sont disponibles sur : [lgelgon.fr/PageBatailleNavale](https://lgelgon.fr/PageBatailleNavale)
+
 ---
 
 ## 📦 Dépendances
